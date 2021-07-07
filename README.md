@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=70&section=header&text=:wink:%20Hi%20Yunji's%20Git%20👋&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=70&section=header&text=😉%20Hi%20Yunji's%20Git%20👋&fontSize=30)
  <div align=center>
