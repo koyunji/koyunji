@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=outo&height=100&section=header&text=윤지%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=100&section=header&text=윤지%20&desc=Hellda&fontSize=90)
  <div align=center>
 
