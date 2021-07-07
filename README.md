@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=red&height=300&section=header&text=윤지%20render&fontSize=90)
+ <div align=center>
+
